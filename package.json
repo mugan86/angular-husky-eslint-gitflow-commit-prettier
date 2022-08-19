@@ -1,6 +1,12 @@
 {
   "name": "angular-husky-with-git-hooks",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Template with Husky use Git Hooks to execute ESLint, commitlint to apply git flow commit messages convention and format code with Prettier",
+  "author": {
+    "name": "Anartz Mugika Ledo",
+    "email": "mugan86@gmail.com",
+    "url": "https://anartz-mugika.com/"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
