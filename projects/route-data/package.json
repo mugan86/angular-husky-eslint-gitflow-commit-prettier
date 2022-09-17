@@ -1,0 +1,15 @@
+{
+  "name": "route-data",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": ">=12.0.0",
+    "@angular/core": ">=12.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0",
+    "@mugan86/ng-leaflet": "^0.4.0",
+    "chart.js": "^3.9.1",
+    "gpxparser": "^3.0.8",
+    "ng2-charts": "^4.0.0"
+  }
+}
